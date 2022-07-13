@@ -33,6 +33,8 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 - 🔭 I am a MLE and Data professional 
 
+- 🧑🏼‍💻 My day-to-day responsibilities include data science, machine learning, and AI.
+
 - 🦾 I do work with collaborative projects and initatives
 
 - 💬 I love to talk about **Mentorship, Community Building👥, Open Source🌐, Coffee☕️,Travel ✈️**
